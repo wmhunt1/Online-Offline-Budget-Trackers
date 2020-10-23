@@ -1,3 +1,4 @@
+//works, borrowed from week 18 mini project
 const FILES_TO_CACHE = [
   '/',
   '/public/index.html',
